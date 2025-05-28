@@ -1,0 +1,32 @@
+{
+"include": "~/.config/waybar/modules",
+"layer": "top",
+"exclusive": true,
+"passthrough": false,
+"position": "top",
+"spacing": 3,
+"fixed-center": true,
+"ipc": true,
+"margin-top": 0,
+"margin-left": 0,
+"margin-right": 0,
+"margin-bottom": 0,
+
+"modules-left": [
+  "hyprland/workspaces",
+  "clock"
+	],
+
+"modules-center": [
+	"custom/spotify-metadata"
+	], 
+
+"modules-right": [
+	"cpu", 
+	"temperature", 
+	"memory",
+	"custom/swaync",
+	"pulseaudio",
+	"battery"
+	]
+}
