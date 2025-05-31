@@ -1,0 +1,8 @@
+alacritty
+waybar
+neofetch
+docker
+flatpak
+htop
+hyprpaper
+rofi
