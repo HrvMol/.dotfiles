@@ -5,3 +5,4 @@ flatpak
 htop
 hyprpaper
 rofi
+ttf-jetbrains-mono
