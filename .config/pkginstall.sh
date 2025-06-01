@@ -8,7 +8,7 @@ if [[ ! $REPLY =~ ^[Yy]$ ]]; then
 fi
 
 # Update system
-sudo pacman -Syu
+sudo pacman -Syyu
 
 # Install packages from pkglist.txt
 xargs -a pkglist.txt sudo pacman -S --needed --noconfirm

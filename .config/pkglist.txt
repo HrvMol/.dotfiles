@@ -1,6 +1,5 @@
 alacritty
 waybar
-neofetch
 docker
 flatpak
 htop
