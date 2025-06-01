@@ -5,3 +5,5 @@ flatpak
 htop
 hyprpaper
 rofi
+ttf-jetbrains-mono
+ttf-font-awesome
